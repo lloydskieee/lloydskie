@@ -230,10 +230,5 @@ a:hover,li:hover{
 }
 
 div.headline{
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  background-color: #131316;
-  padding: 10px;
   font-size: 14px;
 }
